@@ -1,0 +1,9 @@
+regnedit
+========
+
+A utility script for editing the base64 encoded registration number in ID cards
+
+Usage
+=====
+
+$ regnedit [dump] [old registration number] [new registration number]
